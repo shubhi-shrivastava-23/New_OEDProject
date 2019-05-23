@@ -1,5 +1,8 @@
 class MyClass{
 
+myMethod(){
+sysout("Modified file01 ...")
+}
 main(){
 sysout("Helow Git ....")
 }
