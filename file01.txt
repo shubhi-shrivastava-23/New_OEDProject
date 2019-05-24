@@ -5,4 +5,9 @@ public static void main()
 main(){
 sysout("Helow Git ....")
 }
+
+public static void main(String arg[]){
+myMethod();
+system.out.println("Helow GITHUB .. Welcome!")
+}
 }
